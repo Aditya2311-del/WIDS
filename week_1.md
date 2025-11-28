@@ -22,93 +22,102 @@ By the end of this week, you should:
 - [W3Schools – Python Data Science](https://www.w3schools.com/python/python_data_science.asp)
 
 ---
+### Also encourage you to go through (https://www.kaggle.com/learn) for more clearer practical understanding. 
 
-## 🧠 Step 1 – What is Machine Learning?
+Week 1 — Machine Learning Foundations (Concepts + Implementation)
 
-### 📺 YouTube
-- [StatQuest: What is Machine Learning?](https://www.youtube.com/watch?v=Gv9_4yMHFhI)  
-- [Codebasics: Machine Learning for Absolute Beginners (Project-based)](https://www.youtube.com/watch?v=7eh4d6sabA0)  
+This week builds your ML fundamentals using StatQuest (math + intuition) and Codebasics (Python implementation).
+Each concept has two direct links:
 
-### 📚 Reading
-- [Scikit-learn: Machine Learning Basics](https://scikit-learn.org/stable/tutorial/basic/tutorial.html)  
-- [Coursera Blog: What is Machine Learning?](https://www.coursera.org/articles/what-is-machine-learning)
+🎥 StatQuest → Theory + Math
 
----
+💻 Codebasics → Practical Coding
 
-## 🏷 Step 2 – Classification Problems & How Models Learn
+✅ 1. Supervised vs Unsupervised Learning
 
-### 📺 YouTube
-- [StatQuest: Classification vs Regression](https://www.youtube.com/watch?v=EhtP1xD8k-g)  
-- [StatQuest: The Confusion Matrix](https://www.youtube.com/watch?v=Kdsp6soqA7o)  
-- [Codebasics: Classification Example (Credit Card Default Prediction)](https://www.youtube.com/watch?v=JcI5Vnw0b2c)  
+🎥 StatQuest: https://www.youtube.com/watch?v=1xG2lGkS5a8
 
-### 📚 Reading
-- [Scikit-learn: Supervised Learning Overview](https://scikit-learn.org/stable/supervised_learning.html)  
-- [Towards Data Science: Understanding Classification Algorithms](https://towardsdatascience.com/understanding-classification-algorithms-79d74950f9ec)
+💻 Codebasics (End-to-End ML Project): https://www.youtube.com/watch?v=4b6iKz0P-3U
 
----
+✅ 2. Train/Test/Validation Split
 
-## 🧹 Step 3 – Data Loading, Cleaning & Exploration
+🎥 StatQuest: https://www.youtube.com/watch?v=_2ij6eaaSl0
 
-### 📺 YouTube
-- [Codebasics: Data Cleaning with Pandas](https://www.youtube.com/watch?v=zo1y4nPz4wQ)  
-- [Codebasics: Exploratory Data Analysis (EDA)](https://www.youtube.com/watch?v=QB4dQcxgJPY)  
-- [StatQuest: Data Distributions & Summaries](https://www.youtube.com/watch?v=xxFYro8QuXA)  
+💻 Codebasics: https://www.youtube.com/watch?v=GcXcSZ0gQps
 
-### 📚 Reading
-- [Pandas: Working with Missing Data](https://pandas.pydata.org/pandas-docs/stable/user_guide/missing_data.html)  
-- [Kaggle: Data Cleaning Tutorials](https://www.kaggle.com/learn/data-cleaning)
+✅ 3. Bias–Variance & Overfitting
 
----
+🎥 StatQuest: https://www.youtube.com/watch?v=EuBBz3bI-aA
 
-## ⚙️ Step 4 – Feature Extraction & Model Evaluation
+💻 Codebasics (Regularization): https://www.youtube.com/watch?v=1dKRdX9bfIo
 
-### 📺 YouTube
-- [StatQuest: Feature Engineering and Selection](https://www.youtube.com/watch?v=NxEHSAfFlK8)  
-- [StatQuest: Accuracy, Precision, Recall, F1 Explained Clearly](https://www.youtube.com/watch?v=85dtiMz9tSo)  
-- [Codebasics: Model Evaluation Metrics in Python](https://www.youtube.com/watch?v=85dtiMz9tSo) *(same metrics implemented in code)*  
+✅ 4. Cross Validation
 
-### 📚 Reading
-- [Scikit-learn: Feature Extraction Guide](https://scikit-learn.org/stable/modules/feature_extraction.html)  
-- [Scikit-learn: Model Evaluation Guide](https://scikit-learn.org/stable/modules/model_evaluation.html)
+🎥 StatQuest: https://www.youtube.com/watch?v=fSytzGwwBVw
 
----
+💻 Codebasics: https://www.youtube.com/watch?v=6dbrR-WymjI
 
-## 🤖 Step 5 – Implementing Classification Models
+✅ 5. Logistic Regression
 
-### 📺 YouTube
-- [StatQuest: Logistic Regression Explained](https://www.youtube.com/watch?v=yIYKR4sgzI8)  
-- [Codebasics: Logistic Regression from Scratch + Implementation](https://www.youtube.com/watch?v=zM4VZR0px8E)  
-- [StatQuest: Decision Trees](https://www.youtube.com/watch?v=7VeUPuFGJHk)  
-- [Codebasics: K-Nearest Neighbors Practical Example](https://www.youtube.com/watch?v=1i0zu9jHN6U)
+🎥 StatQuest: https://www.youtube.com/watch?v=yIYKR4sgzI8
 
-### 📚 Reading
-- [Scikit-learn: Classification Example](https://scikit-learn.org/stable/tutorial/statistical_inference/supervised_learning.html)  
-- [Kaggle: Intro to Machine Learning Course](https://www.kaggle.com/learn/intro-to-machine-learning)
+💻 Codebasics: https://www.youtube.com/watch?v=zM4VZR0px8E
 
----
+✅ 6. Decision Trees
 
-## 🧩 Practice Tasks
+🎥 StatQuest: https://www.youtube.com/watch?v=7VeUPuFGJHk
 
-- **Mini Project 1:** Pick any dataset from Kaggle (e.g., Titanic, Iris, Credit Default)  
-  → Clean the data, explore it, and build one classification model.  
-- **Mini Project 2:** Compare Logistic Regression, Decision Tree, and KNN on the same dataset.  
-  → Evaluate them using accuracy, precision, recall, and F1.  
+💻 Codebasics: https://www.youtube.com/watch?v=q90UDEgYqeI
 
-📊 **Datasets:**  
-- [Kaggle Datasets – Beginner Friendly](https://www.kaggle.com/datasets?search=beginner)  
-- [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
+✅ 7. Random Forests
 
----
+🎥 StatQuest: https://www.youtube.com/watch?v=J4Wdy0Wc_xQ
 
-## ✅ End-of-Week Outcome
-You’ll be able to:
-- Explain what ML and classification are.  
-- Load and preprocess data using Pandas.  
-- Implement classification models using Scikit-learn.  
-- Evaluate models using key metrics (accuracy, precision, recall, F1).  
-- Understand how features affect model performance.
+💻 Codebasics: https://www.youtube.com/watch?v=nyxTdL_4QxY
 
----
+✅ 8. Gradient Boosting / XGBoost
 
-**🧭 Tip:** Watch StatQuest first for the *concepts*, then Codebasics for the *coding part* — that combination gives the best balance of clarity and practice.
+🎥 StatQuest: https://www.youtube.com/watch?v=3CC4N4z3GJc
+
+💻 Codebasics: https://www.youtube.com/watch?v=O2L2Uv9pdDA
+
+✅ 9. Scaling, Standardization & Normalization
+
+🎥 StatQuest: https://www.youtube.com/watch?v=2tsP5GaOFnE
+
+💻 Codebasics: https://www.youtube.com/watch?v=s2jPllrf_xQ
+
+✅ 10. Feature Engineering
+
+🎥 StatQuest: https://www.youtube.com/watch?v=vS7MLW-sRME
+
+💻 Codebasics: https://www.youtube.com/watch?v=IkWhA5oK4m4
+
+✅ 11. PCA (Dimensionality Reduction)
+
+🎥 StatQuest: https://www.youtube.com/watch?v=FgakZw6K1QQ
+
+💻 Codebasics: https://www.youtube.com/watch?v=5TjiXh4mi2E
+
+✅ 12. Model Evaluation Metrics
+Accuracy, Precision, Recall, F1
+
+🎥 StatQuest: https://www.youtube.com/watch?v=85dtiMz9tSo
+
+Confusion Matrix
+
+🎥 StatQuest: https://www.youtube.com/watch?v=Kdsp6soqA7o
+
+ROC–AUC
+
+🎥 StatQuest: https://www.youtube.com/watch?v=OAl6eAyP-yo
+
+💻 Codebasics (All metrics in one video):
+
+https://www.youtube.com/watch?v=2FmcHiLCwTU
+
+✅ 13. Imbalanced Data (CRITICAL for Fraud Detection)
+
+🎥 StatQuest: https://www.youtube.com/watch?v=zr_-0MZet0A
+
+💻 Codebasics: https://www.youtube.com/watch?v=wGz_cbtCiEAh StatQuest first for the *concepts*, then Codebasics for the *coding part* — that combination gives the best balance of clarity and practice.
