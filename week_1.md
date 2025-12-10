@@ -1,9 +1,9 @@
 # WEEK 1
 This week we will be covering data analysis and data preparation which includes
 EDA , PCA , encoding , and more. \
-I hope you gone through the python resource shared ( Link :- https://github.com/mnp-club/computational-physics-tutorials.git )
+I hope you have gone through the python resource shared ( Link :- https://github.com/mnp-club/computational-physics-tutorials.git )
 
-(if feel need any assistace or unable to understand  things do gpt, gemeni, etc  whatever but for understanding not cheating)
+(if you feel need for any assistace or are unable to understand things do gpt, gemeni, etc  whatever but for understanding not cheating)
 
 ### DATA CLEANING
 - https://www.kaggle.com/learn/data-cleaning  
