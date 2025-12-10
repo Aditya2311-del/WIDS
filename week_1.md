@@ -3,7 +3,7 @@ This week we will be covering data analysis and data preparation which includes
 EDA , PCA , encoding , and more. \
 I hope you have gone through the python resource shared ( Link :- https://github.com/mnp-club/computational-physics-tutorials.git )
 
-(if you feel need for any assistace or are unable to understand things do gpt, gemeni, etc  whatever but for understanding not cheating)
+(if you feel need for any assistace or are unable to understand things do gpt, gemini, etc  whatever but for understanding not cheating)
 
 ### DATA CLEANING
 - https://www.kaggle.com/learn/data-cleaning  
@@ -20,5 +20,6 @@ I hope you have gone through the python resource shared ( Link :- https://github
 - https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html (implementation)
 
 ### Assignment:
--  soon coming....
+  Perform all the things learned in this week on any dataset of your choice and share the colab/github repo link in the form.(If you are not able to find any dataset then you can     use the one we will be using in this project(provided in readme))
+  Form-https://docs.google.com/forms/d/e/1FAIpQLSfc2SjPz7sGunRXFxGk0YS3YcFZuq3e_GDfbR1U0zfw5whMtA/viewform?usp=publish-editor
 
