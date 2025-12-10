@@ -20,5 +20,5 @@ I hope you gone through the python resource shared ( Link :- https://github.com/
 - https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html (implementation)
 
 ### Assignment:
--  soon released
+-  soon coming....
 
