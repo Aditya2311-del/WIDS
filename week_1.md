@@ -20,6 +20,28 @@ I hope you have gone through the python resource shared ( Link :- https://github
 - https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html (implementation)
 
 ### Assignment:
-  Perform all the things learned in this week on any dataset of your choice and share the colab/github repo link in the form.(If you are not able to find any dataset then you can     use the one we will be using in this project(provided in readme))
-  Form-https://docs.google.com/forms/d/e/1FAIpQLSfc2SjPz7sGunRXFxGk0YS3YcFZuq3e_GDfbR1U0zfw5whMtA/viewform?usp=publish-editor
+  Choose any *high-dimensional dataset* (you may select one from Kaggle) and complete the following:
+
+## 1. Full Data Analysis
+Perform a complete analysis on the dataset, including:
+- Data cleaning  
+- Handling missing values  
+- Outlier detection and handling  
+- Encoding  
+- Scaling  
+- PCA (retaining most of the information)
+
+## 2. PCA From Scratch
+Implement PCA *from scratch* using:
+- *NumPy*
+- *Pandas*
+
+Do *NOT* use scikit-learn for PCA.
+
+## 3. Submission
+- Upload your work to a GitHub repository 
+- Share the *GitHub link*  
+- The same repository will be used for future assignments
+
+Submission Form-https://docs.google.com/forms/d/e/1FAIpQLSfc2SjPz7sGunRXFxGk0YS3YcFZuq3e_GDfbR1U0zfw5whMtA/viewform?usp=publish-editor
 
